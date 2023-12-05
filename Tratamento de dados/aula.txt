@@ -1,0 +1,33 @@
+Momentos dos Dados:
+    * Produção (Sistemas de produção/operações/transacionais): 
+        - Aonde os dados estão sendo gerados (Produzem dados);
+        - Mantem a empresa operando;
+        - O dado não pode ser alterado para um valor padrão;
+
+    * Analiticos (Sistemas analiticos): 
+        - Não produzem dados
+        - Eles produzem informação e conhecimento, a partir do carregamento de dados;
+        - Mantem a empresa viva;
+        - Trabalha com os dados de forma coletiva;
+        - Um dado pode ser corrigido / alterado pelo "bem" do modelo;
+
+Problemas nos dados:
+    * Duplicidades;
+    * Inconsistencia;
+    * Completude;
+    * Confromidade;
+    * Integridade;
+
+OBS: 
+    * Substituimos valores faltantes como:
+        - mediana (Em caso de valor numerico);
+        - Moda (Em caco de valor categorico);
+    * Caso pegue dados de fontes diferentes poderá haver uma leve mudança na informação;
+        - ex: genero feminino pode ser representado como: Feminino, Fem, F;
+
+Analise exploratoria:
+    * Conhecer os dados, e se possivel encontrar possiveis erros;
+    * Tanto dos dados categoricos (Gráfico de barras ou grafico de setores), quanto numéricos (Resumo estatisticos, histograma box plot);
+    * Técnicas:
+        - Gerar graficos visuais;
+        - Resumos estatisticos;
