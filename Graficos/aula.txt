@@ -1,0 +1,93 @@
+Visualização:
+    * Para se criar uma historia com a analise de dados é necessario o uso de mecanismos de visualização;
+    * É uma ciência;
+
+Fase exploratória:
+    * Compreender os dados, oq esta acontecendo para VOCÊ:
+    * Relações;
+    * Limites;
+    * Outliers;
+    * Tendencias;
+    * padrões;
+
+Fase explanatória:
+    * Produzindo visualização para o PÚBLICO:
+    * Conclusões;
+    * Evidencias;
+    * Sofisticação;
+
+Artefatos:
+    * Graficos estáticos: É uma represetnação instantânea de um conjunto de dados;
+
+    * Dashboards: conjunto de gráficos interativos e exibidos em conjunto;
+
+    * Infográfico: gráficos mais ricos visualmente, pórem não estão vinculados a uma fonte de dados;
+
+    * Dicas:
+        > Comparado ao que?
+        > Bom ou Ruim?
+        > Métricas corretas?
+        > Tema
+        > Tamanho e resolução
+        > Melhores e Piores
+        > Excesso ou falta de niveis
+        > Proporção
+        > Não abusar de cores
+
+    * Formas de organização:
+        > Localização;
+        > Alfabeticamente;
+        > Tempo;
+        > Categoria;
+        > Hierarquia;
+
+    * Gerais:
+        > Evitar gráficos de setores;
+        > Evitar 3D;
+        > Cores não ordenam valores Escalas de cinza Sistemas;
+        > Devem mostrar 20 numeros ou mecanismos;
+        > Variar dados não design;
+        > Conseguimos guardar de 3 a 9 (preferencia: 7) informações visuais em nosso cérebro;
+
+    * Capacidade de percepção:
+        1. Posição em uma escala comum
+        2. Posição em uma escala não alinhada
+        3. Comprimento, direção e angulo,
+        4. Area
+        5. Volume e curvatura
+        6. Sombreamente e saturação
+
+    * Quais elementos graficos usar:
+        - Gráfico de barras: 
+            > Dados Discretos;
+            > comparar;
+        - Graficos de Linhas: 
+            > Dados continuos; 
+            > evolução;
+            > Series Temporais (dependencia de tempo), com tempo no eixo horizontal e dimensões no vertical;
+            > Suporta várias categorias
+        - Graficos de setores:
+            > compara categorias;
+            > poucas categorias;
+            > Ter pouca presição;
+        - Dispersão:
+            > Mostrar relação entre duas variaveis
+            > Cor: Categoria
+        - Distribuição de dados:
+            > Histograma = Apenas uma variavel;
+            > Boxplot = Varias variaveis;
+
+    * CheckList:
+        - Usandon elemento grafico certo?
+        - Não há excesso de decorativos?
+        - Não há mais de 7 elementos no dashboard?
+        - Dados com context correto?
+        - Não apresentam excesso de detalhes?
+        - Dados mais importantes estão destacados?
+        - Não há mais de 20 instancias por elemento grafico?
+        - Existe excesso de elemento não relacionados?
+        - Não transcende a dimanesões de uma tela?
+        - Existe um unico assunto no Dashboard?
+        - Proporção de 1/6 entre eixos?
+        - Existentem referencias de comparação?
+        - Cores suaves?
